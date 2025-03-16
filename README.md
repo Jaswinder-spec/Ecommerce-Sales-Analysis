@@ -52,8 +52,9 @@ The `sql_queries.sql` file contains the following key operations:
    --Top-Selling Products per Customer-- Shows which products are frequently bought by customers.
    --Seasonality Analysis (Monthly/Yearly Trends)-- Helps understand when customers are more likely to make purchases.
    --Identifying Repeat Customers--Identifies loyal customers.
-  
-   ## How to Run
+ 
+
+  ## How to Run
 1. Import the `onlineretailcleaned.csv` into your SQL Server (or any other database system you are using).
 2. Run this  file in your SQL tool (e.g., SSMS or any SQL client) to create tables and perform analysis.
 
