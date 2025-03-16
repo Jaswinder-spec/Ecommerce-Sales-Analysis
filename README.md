@@ -5,3 +5,12 @@ This project analyzes an online retail dataset of UK-based  registered non- stor
 ## 📂 Dataset Information
 - **Source:**href="https://archive.ics.uci.edu/dataset/352/online+retail">onilne retail data</a>
 - **Columns:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
+- 📂 Dataset Information
+
+Source: UCI Machine Learning Repository (Online Retail Dataset)
+
+File Name: onlineretaildbproject2025.xlsx
+
+Size: (mention the file size here)
+
+Columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
